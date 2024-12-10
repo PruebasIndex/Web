@@ -250,6 +250,24 @@ a{
     .content-article-element{
         width: 100%;
     }
+
+    .title-article, .contacts{
+        width: 90%;
+    }
+
+    .image-article{
+        width: 60%;
+    }
+
+    .description-article{
+        width: 95%;
+    }
+}
+
+@media (max-width: 370px){
+    .image-article{
+        width: 90%;
+    }
 }
 
 .other-articles{
