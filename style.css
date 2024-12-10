@@ -216,8 +216,10 @@ a{
     align-items: center;
     flex-wrap: wrap;
     gap: 10px;
+    border-top: 2px solid black;
     border-bottom: 2px solid black;
     padding-bottom: 30px;
+    padding-top: 30px;
 }
 
 .address, .whatsapp, .redes{
