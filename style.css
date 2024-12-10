@@ -246,6 +246,10 @@ a{
     .title-article{
         margin-top: -30px;
     }
+
+    .content-article-element{
+        width: 100%;
+    }
 }
 
 .other-articles{
